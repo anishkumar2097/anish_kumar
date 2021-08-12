@@ -1,2 +1,3 @@
 # Let me chat:A group chat app
-Firebase
+A group chat app 
+User can send text message and photos .
