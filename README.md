@@ -1,6 +1,6 @@
 # Let me chat:A group chat app
 A group chat app :
-User can send text message and photos .
+User is authenticated either with google sign-in or e-mail .After authentiction ,user can chat with member of the group. User can send text and images to members 
 
 YouTube Link : https://youtu.be/bPe-sPrt_6w
 
